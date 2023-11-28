@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-learn/static/css/main.68f41c09.css",
+    "main.js": "/react-learn/static/js/main.314d9364.js",
+    "static/js/787.8fb18d7a.chunk.js": "/react-learn/static/js/787.8fb18d7a.chunk.js",
+    "static/media/frevo.jpeg": "/react-learn/static/media/frevo.81883a47b154e317bfeb.jpeg",
+    "static/media/nature-recife.jpeg": "/react-learn/static/media/nature-recife.4cf1be8e91af19a5c205.jpeg",
+    "index.html": "/react-learn/index.html",
+    "main.68f41c09.css.map": "/react-learn/static/css/main.68f41c09.css.map",
+    "main.314d9364.js.map": "/react-learn/static/js/main.314d9364.js.map",
+    "787.8fb18d7a.chunk.js.map": "/react-learn/static/js/787.8fb18d7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f41c09.css",
+    "static/js/main.314d9364.js"
+  ]
+}
